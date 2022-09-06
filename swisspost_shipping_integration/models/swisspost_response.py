@@ -4,7 +4,7 @@ import copy
 import datetime
 import logging
 from collections import defaultdict
-from odoo.addons.colissimo_shipping_integration.models.utils import get_dom_tree, python_2_unicode_compatible
+from odoo.addons.swisspost_shipping_integration.models.utils import get_dom_tree, python_2_unicode_compatible
 import json
 _logger = logging.getLogger(__name__)
 
