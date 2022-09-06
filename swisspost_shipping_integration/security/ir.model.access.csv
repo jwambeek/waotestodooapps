@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_swisspost_salesman,swisspost_salesman,model_swiss_post_carrier_service,sales_team.group_sale_salesman,1,1,1,1
+access_swisspost_salesmanager,swisspost_manager,model_swiss_post_carrier_service,sales_team.group_sale_manager,1,1,1,1
